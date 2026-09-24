@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/SamiraCavalcantiDevOps/Introdu%C3%A7%C3%A3o%20ao%20Azure%20DevOps/_apis/build/status%2FSamiraCavalcanti.pipelines-java?branchName=main)](https://dev.azure.com/SamiraCavalcantiDevOps/Introdu%C3%A7%C3%A3o%20ao%20Azure%20DevOps/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
